@@ -4,6 +4,7 @@ This repository contains the code and report for a statistical analysis of citat
 
 ## 📁 Contents
 
+- `CitationsReport Instructions.pdf` – File containing the tasks and instructions to be followed.
 - `CitationsReport.Rmd` – R Markdown file containing the full analysis and code.
 - `CitationsReport.pdf` – The compiled report (knitted from the Rmd).
 - `citations.txt` – Citation relationships between papers (FromID → ToID).
